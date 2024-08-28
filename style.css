@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 :root{
-    --textcolor: #361515; /* Light Gray */
-    --primary-color: #7e5200; /* Dark Orange */
+    --textcolor: #bbffef; /* Light Green */
+    --primary-color: #025843; /* Dark Green */
     --secondary-color: #580000; /* Dark Blue */
     --link-color: #ff002b; /* Lighter Blue for links */
     --space-background: #002855; /* Dark Blue */
