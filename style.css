@@ -3,8 +3,8 @@
 
 :root{
     --textcolor: #bbffef; /* Light Green */
-    --primary-color: #025843; /* Dark Green */
-    --secondary-color: #580000; /* Dark Blue */
+    --primary-color: #9ad3c5; /* Dark Green */
+    --secondary-color: #9ad3c5; /* Dark Blue */
     --link-color: #ff002b; /* Lighter Blue for links */
     --space-background: #025843; /* Dark Blue */
 }
